@@ -40,7 +40,7 @@ jobs:
 
       - name: Run Script
         working-directory: takerbot
-        run: node layeredge.js
+        run: node taker.js
 
       - name: Copy Log File to Root Directory
         working-directory: takerbot
