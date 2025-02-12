@@ -1,0 +1,17 @@
+{
+  "name": "taker-bot",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "taker.js",
+  "scripts": {
+    "start": "node taker.js"
+  },
+  "author": "Ryanda1106",
+  "license": "MIT",
+  "description": "Taker Bot Auto Activate Daily Mining",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "chalk": "^5.4.1",
+    "ethers": "^6.13.4"
+  }
+}
