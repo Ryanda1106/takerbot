@@ -57,7 +57,7 @@ jobs:
         run: |
             git config --global user.name "$GIT_NAME"
             git config --global user.email "$GIT_EMAIL"
-            git add log-layeredge.txt
+            git add log-taker.txt
             git commit -m "Update log-taker.txt"
             git push origin main
         env:
