@@ -1,0 +1,9 @@
+2/12/2025 | 6:58:43 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+2/12/2025 | 6:58:44 PM | INFO | Start process for wallet 0x000004ad77FB28b1661d7836D640AdD49aa2DE66 
+2/12/2025 | 6:58:44 PM | INFO | Trying To Login for wallet: 0x000004ad77FB28b1661d7836D640AdD49aa2DE66 
+2/12/2025 | 6:58:45 PM | INFO | Login successful... 
+2/12/2025 | 6:58:45 PM | INFO | Trying to check user info... 
+2/12/2025 | 6:58:46 PM | INFO | User ID: 155506797 | Twitter: @BlackMadia | Total Points: 24500 
+2/12/2025 | 6:58:46 PM | INFO | Trying to check user miner status... 
+2/12/2025 | 6:58:47 PM | INFO | Last mining time: 2/12/2025, 1:36:35 AM
+2/12/2025 | 6:58:47 PM | WARN | Mining already started, next mining time is: 2/13/2025, 1:36:35 AM
