@@ -1,4 +1,4 @@
-name: LayerEdge
+name: Taker
 on:
   schedule:
     - cron: '0 */4 * * *'
