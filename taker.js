@@ -111,7 +111,7 @@ const login = async (address, message, signature, retries = 3) => {
     try {
         const res = await post(`wallet/login`, {
             address,
-            invitationCode: "9M8HC",
+            invitationCode: "BKX7Y",
             message,
             signature,
         });
