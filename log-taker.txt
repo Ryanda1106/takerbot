@@ -4188,3 +4188,16 @@
 5/13/2025 | 4:30:23 AM | INFO | Trying to check user miner status... 
 5/13/2025 | 4:30:30 AM | INFO | Last mining time: 5/12/2025, 8:28:06 PM
 5/13/2025 | 4:30:30 AM | WARN | Mining already started, next mining time is: 5/13/2025, 8:28:06 PM
+5/13/2025 | 8:33:37 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/13/2025 | 8:33:37 AM | INFO | Start process for wallet 0x000004ad77FB28b1661d7836D640AdD49aa2DE66 
+5/13/2025 | 8:33:38 AM | INFO | Trying To Login for wallet: 0x000004ad77FB28b1661d7836D640AdD49aa2DE66 
+5/13/2025 | 8:33:39 AM | INFO | Login successful... 
+5/13/2025 | 8:33:39 AM | INFO | Trying to check user info... 
+5/13/2025 | 8:33:40 AM | INFO | User ID: 155506797 | Twitter: @BlackMadia | Total Points: 1898680 
+5/13/2025 | 8:33:40 AM | INFO | Trying to check user miner status... 
+5/13/2025 | 8:33:43 AM | INFO | Last mining time: 5/11/2025, 8:24:42 PM
+5/13/2025 | 8:33:43 AM | INFO | Trying to start Mining for wallet: 0x000004ad77FB28b1661d7836D640AdD49aa2DE66 
+5/13/2025 | 8:33:44 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/13/2025 | 8:33:44 AM | INFO | Trying to activate mining on-chain for wallet: 0x000004ad77FB28b1661d7836D640AdD49aa2DE66 
+5/13/2025 | 8:33:45 AM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
+5/13/2025 | 8:33:45 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
