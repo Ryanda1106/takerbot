@@ -4686,3 +4686,15 @@
 5/22/2025 | 2:02:09 AM | INFO | Trying to activate mining on-chain for wallet: 0x000004ad77FB28b1661d7836D640AdD49aa2DE66 
 5/22/2025 | 2:02:10 AM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":"0x08c379a0000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000356d757374206265206d6f7265207468616e20323420686f7572732073696e636520746865206c6173742061637469766174696f6e2e0000000000000000000000","reason":"must be more than 24 hours since the last activation.","transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x000004ad77FB28b1661d7836D640AdD49aa2DE66"},"invocation":null,"revert":{"signature":"Error(string)","name":"Error","args":["must be more than 24 hours since the last activation."]},"shortMessage":"execution reverted: \"must be more than 24 hours since the last activation.\"","info":{"error":{"code":-32603,"message":"VM Exception while processing transaction: revert must be more than 24 hours since the last activation.","data":"0x08c379a0000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000356d757374206265206d6f7265207468616e20323420686f7572732073696e636520746865206c6173742061637469766174696f6e2e0000000000000000000000"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x2f","from":"0x000004ad77fb28b1661d7836d640add49aa2de66","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/22/2025 | 2:02:10 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/22/2025 | 4:31:06 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/22/2025 | 4:31:06 AM | INFO | Start process for wallet 0x000004ad77FB28b1661d7836D640AdD49aa2DE66 
+5/22/2025 | 4:31:07 AM | INFO | Trying To Login for wallet: 0x000004ad77FB28b1661d7836D640AdD49aa2DE66 
+5/22/2025 | 4:31:08 AM | INFO | Login successful... 
+5/22/2025 | 4:31:08 AM | INFO | Trying to check user info... 
+5/22/2025 | 4:31:08 AM | INFO | User ID: 155506797 | Twitter: @BlackMadia | Total Points: 2090680 
+5/22/2025 | 4:31:08 AM | INFO | Trying to check user miner status... 
+5/22/2025 | 4:31:10 AM | INFO | Last mining time: 5/20/2025, 8:28:18 PM
+5/22/2025 | 4:31:10 AM | INFO | Trying to start Mining for wallet: 0x000004ad77FB28b1661d7836D640AdD49aa2DE66 
+5/22/2025 | 4:31:10 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/22/2025 | 4:31:10 AM | INFO | Trying to activate mining on-chain for wallet: 0x000004ad77FB28b1661d7836D640AdD49aa2DE66 
+5/22/2025 | 4:31:20 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xc183dd2047d60980087b0d4712dbf1efce9247d869eea32bb1dc95ae3b284627 
