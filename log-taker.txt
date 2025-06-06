@@ -5538,3 +5538,15 @@
 6/6/2025 | 2:03:01 AM | INFO | Trying to check user miner status... 
 6/6/2025 | 2:03:02 AM | INFO | Last mining time: 6/5/2025, 2:03:57 AM
 6/6/2025 | 2:03:02 AM | WARN | Mining already started, next mining time is: 6/6/2025, 2:03:57 AM
+6/6/2025 | 4:32:52 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/6/2025 | 4:32:52 AM | INFO | Start process for wallet 0x000004ad77FB28b1661d7836D640AdD49aa2DE66 
+6/6/2025 | 4:32:53 AM | INFO | Trying To Login for wallet: 0x000004ad77FB28b1661d7836D640AdD49aa2DE66 
+6/6/2025 | 4:32:54 AM | INFO | Login successful... 
+6/6/2025 | 4:32:54 AM | INFO | Trying to check user info... 
+6/6/2025 | 4:32:54 AM | INFO | User ID: 155506797 | Twitter: @BlackMadia | Total Points: 2402680 
+6/6/2025 | 4:32:54 AM | INFO | Trying to check user miner status... 
+6/6/2025 | 4:32:55 AM | INFO | Last mining time: 6/5/2025, 2:03:57 AM
+6/6/2025 | 4:32:55 AM | INFO | Trying to start Mining for wallet: 0x000004ad77FB28b1661d7836D640AdD49aa2DE66 
+6/6/2025 | 4:32:56 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+6/6/2025 | 4:32:56 AM | INFO | Trying to activate mining on-chain for wallet: 0x000004ad77FB28b1661d7836D640AdD49aa2DE66 
+6/6/2025 | 4:33:07 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xb59f320041783024b14d4061d18d80ca2b1c35b3ddacf6a2230177a5c971964b 
