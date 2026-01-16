@@ -18836,3 +18836,13 @@
 1/16/2026 | 8:45:40 AM | WARN | Retrying... (0 attempts left) 
 1/16/2026 | 8:47:59 AM | ERROR | Failed to get nonce after retries: connect ETIMEDOUT 101.47.181.18:443
 1/16/2026 | 8:47:59 AM | ERROR | Failed to retrieve nonce for wallet: 0x000004ad77FB28b1661d7836D640AdD49aa2DE66 
+1/16/2026 | 12:59:43 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+1/16/2026 | 12:59:43 PM | INFO | Start process for wallet 0x000004ad77FB28b1661d7836D640AdD49aa2DE66 
+1/16/2026 | 1:01:57 PM | ERROR | Failed to get nonce: connect ETIMEDOUT 101.47.181.18:443
+1/16/2026 | 1:01:57 PM | WARN | Retrying... (2 attempts left) 
+1/16/2026 | 1:04:16 PM | ERROR | Failed to get nonce: connect ETIMEDOUT 101.47.181.18:443
+1/16/2026 | 1:04:16 PM | WARN | Retrying... (1 attempts left) 
+1/16/2026 | 1:06:36 PM | ERROR | Failed to get nonce: connect ETIMEDOUT 101.47.181.18:443
+1/16/2026 | 1:06:36 PM | WARN | Retrying... (0 attempts left) 
+1/16/2026 | 1:08:55 PM | ERROR | Failed to get nonce after retries: connect ETIMEDOUT 101.47.181.18:443
+1/16/2026 | 1:08:55 PM | ERROR | Failed to retrieve nonce for wallet: 0x000004ad77FB28b1661d7836D640AdD49aa2DE66 
